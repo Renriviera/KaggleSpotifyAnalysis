@@ -1,6 +1,8 @@
 Dataset
 https://www.kaggle.com/datasets/purumalgi/music-genre-classification?resource=download&select=train.csv
-Important notes
+
+Important notes:
+
 train.csv is the file with NaNs filled in. The original, raw data set is trainWithNaNs.csv
 xTrain and yTrain.csv contain the X and y data individually. In all cases I've split the data into X and y in the python code instead, though.
 
